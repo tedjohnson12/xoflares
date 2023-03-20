@@ -1,6 +1,8 @@
 import numpy as np
-import theano as aesara
-import theano.tensor as tt
+# import theano as aesara
+import aesara
+# import theano.tensor as tt
+import aesara.tensor as tt
 from scipy import integrate
 
 # theano.config.scan.allow_gc = True
