@@ -1,6 +1,4 @@
-aesara
+
 numpy>=1.13.0
-pymc3>=3.6
+
 matplotlib
-lightkurve
-exoplanet
